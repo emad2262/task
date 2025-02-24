@@ -1,0 +1,37 @@
+sales-office(num-loc-id)
+
+property(id-add-city-state-Zib-num)
+
+employee(id-name-num)
+
+owner(id-name)
+
+owner-property(id-id-precent-owned)
+==============================================================================================================================================================================================
+
+musician(id-name-phone-st-city)
+
+instrument(name-key)
+
+musician-instrument(id-name)
+
+album(id-title-date-id musician)
+
+song(title-author-id albnum)
+
+musician-song(id-title)
+==============================================================================================================================================================================================
+patient(id - name - dob- id wrab - id Consultant)
+
+wrab(id-name)
+
+nurse(id-name-id wrab)
+
+consulatant(id-name)
+
+patient-consulatant(id-id patient)
+
+patient-nurse(id patient-id nurse-date-time-dostage)
+
+drug(code-RecDosage)
+drug(code-code)
